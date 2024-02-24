@@ -7,7 +7,8 @@ Inboxera is an AI-Powered Application for Gmails Classification geared to compan
 # Pictures
 
 ## Logo
-![LOGO](https://github.com/Kind-Unes/GDG-Ghack-24/blob/master/screenshots/image.png)
+
+![LOGO](https://github.com/Kind-Unes/GDG-Ghack-24/blob/master/screenshots/qsd.png)
 ## Main Page
 ![Main](https://github.com/Kind-Unes/GDG-Ghack-24/blob/master/screenshots/image.png)
 
