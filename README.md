@@ -1,5 +1,5 @@
 # Inboxera-Ghack'24
-Ghack is our Team's "Wide-Putins" Submission for GDG-Ghack'24 Hackthon in it's first phase (Online Phase)
+Inboxera is our Team's "Wide-Putins" Submission for GDG-Ghack'24 Hackthon in it's first phase (Online Phase)
 
 # What is Inboxera ?:
 Inboxera is an AI-Powered Application for Gmails Classification geared to companies to ease the gmails discrimination process, built on top of Google-Gemini API
